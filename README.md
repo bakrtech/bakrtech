@@ -11,5 +11,5 @@
 
  👋 I'm follower of Islam
 
-⚡ Fun fact: do peoplr read this
+⚡ Fun fact: do people read this
 
