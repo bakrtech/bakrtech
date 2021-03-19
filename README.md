@@ -3,13 +3,15 @@
 
 
 
-🔭 I’m currently working on python
+🔭 I’m currently working on python and java
 
- 🌱 I’m currently learning java and linux
+🌱 I’m currently learning C languages and Unreal/Unity
  
- 👯 I’m looking to collaborate on python for basic game dev
+👯 I’m looking to collaborate on python and java 
 
- 👋 I'm follower of Islam
+👋 I'm also a follower of Islam
 
-⚡ Fun fact: do people read this
+⚡ Fun fact: The devloper of temple OS created HolyC for It's development 
+
+
 
