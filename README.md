@@ -2,6 +2,7 @@
 
 
 
+## 🐧 ARCH BTW 
 
 🔭 I’m currently working on python and java
 
