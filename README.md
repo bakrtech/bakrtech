@@ -10,17 +10,17 @@
   
 </p>
 
+<p align="center">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  
+</p>
 <div align="center">
 <img align = "center" src= "https://github.com/ANKITSHARMA98/ANKITSHARMA98/blob/main/images/CheerySeparateGoldeneye-size_restricted.gif"><br>
 
 
 
 <br>
-<p align="center">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  
-</p>
 
 
 
