@@ -17,12 +17,6 @@
 <br><br>
   
 </p>
-<div align="center">
-<img align = "center" src= "https://github.com/ANKITSHARMA98/ANKITSHARMA98/blob/main/images/CheerySeparateGoldeneye-size_restricted.gif"><br>
-
-
-
-<br>
 
 
 
