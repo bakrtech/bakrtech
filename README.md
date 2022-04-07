@@ -20,12 +20,16 @@
 
 
 
+<p  align = "center">
 
 
 <img align = "center"  src = "https://github-readme-stats.vercel.app/api?username=bakrtech&count_private=true&show_icons=true&theme=dracula"><br>
+</p>
 <a href="https://github.com/bakrtech">
   
+<p  align = "center">
 <img align = "center" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakrtech&theme=dracula"><br>
+</p>
   
 </a>
  
