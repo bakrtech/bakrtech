@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-<img src="https://giphy.com/embed/4N5ddOOJJ7gtKTgNac" width="100">
+<img src="https://tenor.com/view/swan_hack-dab-tux-linux-gif-19010779" width="100">
 <br><br>
   
 </p>
