@@ -54,7 +54,7 @@
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-orignal.svg" title="Linux" alt="Linux" width="60" height="60"/>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>
 
 </div>
 </p>
