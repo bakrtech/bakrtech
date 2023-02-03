@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BAKRTECH&fontSize=50" />
+<h1><p p align="center">
+<b> ﷽  </b>
+</p>
+</h1>
+
 
 <p align="center">
-<b>Hi I'm bakrtech <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></b>
+<b>Hi I'm bakrtech  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></b>
 </p>
 
 <p align="center">
